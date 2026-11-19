@@ -9,7 +9,6 @@ import GiftsSection from './template/GiftsSection.jsx';
 import ClosingBanner from './template/ClosingBanner.jsx';
 import Hero from './template/Hero.jsx';
 import CountdownSection from './template/CountdownSection.jsx';
-import OriginalFooter from './template/OriginalFooter.jsx';
 
 export default function App() {
   const [modal, setModal] = useState(null);
@@ -29,7 +28,6 @@ export default function App() {
       <ClosingBanner />
       <div style={{"height": "30px"}} aria-hidden="true" className="wp-block-spacer">
       </div>
-      <OriginalFooter />
       </main>
       <Modal type={modal} onClose={() => setModal(null)} />
     </div>
