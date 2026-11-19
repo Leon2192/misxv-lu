@@ -1,0 +1,47 @@
+[
+  {
+    "question": "¿Cuál es mi frase más repetida?",
+    "answers": [
+      "Ya voy",
+      "Tengo hambre",
+      "No sé qué ponerme"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Si pudiera viajar mañana mismo, ¿qué destino elegiría?",
+    "answers": [
+      "Nueva York",
+      "París",
+      "El Caribe"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "¿Qué es lo primero que hago cuando agarro el celular?",
+    "answers": [
+      "Revisar WhatsApp",
+      "Entrar a TikTok",
+      "Sacarme una foto"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "¿Cuál de estas cosas sería IMPOSIBLE que falte en mis 15?",
+    "answers": [
+      "Una buena playlist",
+      "Muchas fotos",
+      "Mis personas favoritas"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "¿Cuál es mi mayor debilidad?",
+    "answers": [
+      "El chocolate",
+      "Dormir hasta tarde",
+      "Comprar ropa"
+    ],
+    "correct": 0
+  }
+]
